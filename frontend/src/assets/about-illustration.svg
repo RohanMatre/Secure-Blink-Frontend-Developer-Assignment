@@ -1,0 +1,8 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Abstract UI components -->
+  <rect x="50" y="100" width="80" height="60" fill="white" stroke="#0E77FF" stroke-width="2"/>
+  <rect x="150" y="80" width="60" height="40" fill="#0E77FF" opacity="0.1"/>
+  <rect x="250" y="120" width="70" height="50" fill="white" stroke="#0E77FF" stroke-width="2"/>
+  <circle cx="100" cy="200" r="25" fill="#0E77FF" opacity="0.2"/>
+  <rect x="200" y="180" width="40" height="30" fill="white" stroke="#0E77FF" stroke-width="1"/>
+</svg>

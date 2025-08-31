@@ -1,0 +1,201 @@
+/* Inter font imports */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Custom utility classes - avoiding @apply to prevent TailwindCSS conflicts */
+
+.typo-p-light-18 {
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.typo-p-normal-22 {
+  font-size: 22px;
+  line-height: 32px;
+  color: #000000;
+}
+
+.typo-p-semibold-40 {
+  font-size: 40px;
+  line-height: 48px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.typo-p-semibold-55 {
+  font-size: 55px;
+  line-height: 64px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.typo-p-semibold-25-blue {
+  font-size: 25px;
+  line-height: 32px;
+  color: #0E77FF;
+  font-weight: 600;
+}
+
+.typo-p-semibold-20-blue {
+  font-size: 20px;
+  line-height: 28px;
+  color: #0E77FF;
+  font-weight: 600;
+}
+
+.typo-p-semibold-20-white {
+  font-size: 20px;
+  line-height: 28px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+.typo-p-normal-16 {
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.typo-p-normal-20 {
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.typo-p-normal-20-blue {
+  font-size: 20px;
+  line-height: 28px;
+  color: #0E77FF;
+}
+
+.typo-p-normal-16-tight {
+  font-size: 16px;
+  line-height: 25px;
+  color: #000000;
+}
+
+.typo-p-light-16-white-30 {
+  font-size: 16px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+
+.typo-p-light-16-white-40 {
+  font-size: 16px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+
+.typo-p-semibold-20-white-81 {
+  font-size: 20px;
+  line-height: 81px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+.typo-p-semibold-44 {
+  font-size: 44px;
+  line-height: 52px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.typo-p-semibold-36-gray900 {
+  font-size: 36px;
+  line-height: 44px;
+  color: #292929;
+  font-weight: 600;
+}
+
+.typo-p-semibold-55-white {
+  font-size: 55px;
+  line-height: 64px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+.typo-p-light-20-blue-9a {
+  font-size: 20px;
+  line-height: 28px;
+  color: #9ABFFF;
+}
+
+.typo-p-normal-18-white {
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+.typo-p-normal-25-white {
+  font-size: 25px;
+  line-height: 32px;
+  color: #FFFFFF;
+}
+
+.typo-p-normal-18-black {
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.typo-segoe-normal-20 {
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.typo-segoe-normal-14 {
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.typo-muli-normal-25-white {
+  font-size: 25px;
+  line-height: 32px;
+  color: #FFFFFF;
+}
+
+.typo-muli-normal-25-black {
+  font-size: 25px;
+  line-height: 32px;
+  color: #000000;
+}
+
+.typo-muli-normal-25-blue {
+  font-size: 25px;
+  line-height: 32px;
+  color: #0E77FF;
+}
+
+/* Additional dashboard specific classes */
+.typo-p-semibold-36 {
+  font-size: 36px;
+  line-height: 44px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.typo-p-semibold-20 {
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.typo-p-semibold-16 {
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  font-weight: 600;
+}
+
+.typo-p-normal-14 {
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}

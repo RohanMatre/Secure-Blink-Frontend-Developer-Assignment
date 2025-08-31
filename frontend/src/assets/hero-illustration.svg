@@ -1,0 +1,9 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rocket -->
+  <path d="M200 250 L180 200 L220 200 Z" fill="white"/>
+  <rect x="190" y="150" width="20" height="50" fill="white"/>
+  <circle cx="200" cy="140" r="15" fill="white"/>
+  <!-- Smoke trail -->
+  <path d="M200 250 Q150 200 100 150 Q50 100 0 50" stroke="white" stroke-width="8" fill="none" opacity="0.8"/>
+  <path d="M200 250 Q250 200 300 150 Q350 100 400 50" stroke="white" stroke-width="6" fill="none" opacity="0.6"/>
+</svg>
