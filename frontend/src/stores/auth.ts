@@ -1,8 +1,12 @@
 import { defineStore } from 'pinia'
 
+interface User {
+  email: string
+}
+
 export const useAuthStore = defineStore('auth', {
   state: () => ({
-    user: null,
+    user: null as User | null,
     isAuthenticated: false
   }),
   
