@@ -1,5 +1,5 @@
 <template>
-  <section id="testimonials" class="relative bg-white" style="width: 100%; min-height: 1700px;">
+  <section id="testimonials" class="relative bg-white" style="width: 100%; min-height: 1515px;">
     <!-- Path 37456 Background -->
     <div 
       class="absolute"
@@ -282,7 +282,7 @@
         top: 1015px;
         left: 0;
         width: 100%;
-        height: 755px;
+        height: 500px;
         background: #0E77FF 0% 0% no-repeat padding-box;
         opacity: 1;
         z-index: 2;
